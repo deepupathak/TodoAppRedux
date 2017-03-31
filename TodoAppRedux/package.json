@@ -1,0 +1,22 @@
+{
+  "name": "TodoAppRedux",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^15.2.1",
+    "react-addons-create-fragment": "^15.2.1",
+    "react-addons-css-transition-group": "^15.2.1",
+    "react-addons-linked-state-mixin": "^15.2.1",
+    "react-addons-perf": "^15.2.1",
+    "react-addons-pure-render-mixin": "^15.2.1",
+    "react-addons-test-utils": "^15.2.1",
+    "react-addons-transition-group": "^15.2.1",
+    "react-addons-update": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2"
+  }
+}
